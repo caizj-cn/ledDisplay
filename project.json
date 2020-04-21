@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ledDisplay",
+  "uuid": "fc285550-85fe-4d7f-9602-8bdc9e9e9e0d",
+  "version": "2.3.3",
+  "id": "c2cd6c27-2e95-44d9-bf52-ba3cab7b2769",
+  "isNew": false
+}
